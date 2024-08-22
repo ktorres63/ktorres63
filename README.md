@@ -1,4 +1,8 @@
 # 💫 About Me:
+<picture>
+    <img align="right" src="https://github.com/ktorres63/ktorres63/blob/main/assets/images/Right_Side.gif?raw=true" width="250px" style="margin-top: -50px;">
+</picture>
+
 📚 I'm currently studying systems engineering.<br>👯 I’m looking to collaborate on open source projects<br>🤓 Always learning new things.<br>🤔 I’m currently open for a new job opportunity<br>
 
 
